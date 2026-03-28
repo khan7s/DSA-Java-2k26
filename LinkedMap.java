@@ -7,7 +7,7 @@ public class LinkedMap{
         Scanner scan = new Scanner(System.in);
         LinkedHashMap<Integer, String> lmap = new LinkedHashMap<>();
 
-        // lmap.put(10, "NmPersion");
+        // lmap.put(10, "NmPerson");
         // lmap.put(20, "NmP2");
         // lmap.put(30, "mnstrg");
 
