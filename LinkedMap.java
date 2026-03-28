@@ -23,5 +23,7 @@ public class LinkedMap{
         for(Map.Entry<Integer,String> entry:lmap.entrySet()){
             System.out.println(entry.getKey() + " " + entry.getValue());
         }
+
+        scan.close();
     }
 }
